@@ -13,7 +13,11 @@
 方法:使用AR Foundation 工具，在Unity 上設計人物與動畫還有肢體動作跟套特效音效等，使用Visual Studio 撰寫相關程式碼進行操作跟設定，最後發布APK 在AR 內呈現
 
 ## Results
-![result1](images/result1.png)
+
+![結果圖1](螢幕擷取畫面 2025-06-20 003950.png)
+
+![結果圖2](螢幕擷取畫面 2025-06-21 013248.png)
+
 
 ## Tech Stack
 - Unity / C# / AR Foundation / Vuforia / Visual Studio

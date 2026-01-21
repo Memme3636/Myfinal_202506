@@ -14,9 +14,11 @@
 
 ## Results
 
-![Result 1](images/result_1.png)
+<p>
+  <img src="images/result_1.png" width="48%" />
+  <img src="images/result_2.png" width="48%" />
+</p>
 
-![Result 2](images/result_2.png)
 
 
 

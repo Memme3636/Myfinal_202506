@@ -3,7 +3,6 @@
 用 Unity 做 AR 互動遊戲 
 
 ## Presentation / Report
-- Slides (PDF): [slides/FinalProject.pdf](slides/FinalProject.pdf)
 - (Optional) Demo Video: https://youtu.be/X2k5PqDQd9E
 
 ## Problem

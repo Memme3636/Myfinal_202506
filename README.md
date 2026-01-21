@@ -1,27 +1,36 @@
-# Myfinal_202506｜期末專題
+# Myfinal_202506 | Final Project
 
-用 Unity 做 AR 互動遊戲 
+An interactive AR game built with Unity.
 
-## Presentation / Report
-- (Optional) Demo Video: https://youtu.be/X2k5PqDQd9E
+## Presentation / Demo
+- Demo video: https://youtu.be/X2k5PqDQd9E
 
-## Problem
-東吳攻防戰，須設計讓砲塔攻擊石頭人、有特效，按replay可以重玩Quit可以離開，怪物碰到塔就扣血條，血條扣光遊戲停止。增加了東吳文字、建築、校徽。
+## Project Overview
+**Soochow Defense Battle** is an AR tower-defense style mini game.  
+Players defend the tower against stone monsters. The tower shoots enemies with visual effects, and the game provides Replay/Quit controls. I also customized the scene with Soochow-themed elements (text, buildings, and the school emblem).
 
+## Core Features
+- **Turret attack system:** the tower automatically attacks stone monsters.
+- **VFX/SFX integration:** attacks include visual effects and sound effects.
+- **Replay / Quit buttons:** Replay restarts the game; Quit exits.
+- **HP system:** when monsters reach the tower, the tower’s health decreases; the game stops when HP reaches zero.
+- **Scene customization:** added Soochow-related text, buildings, and the school emblem.
 
 ## Approach
-方法:使用AR Foundation 工具，在Unity 上設計人物與動畫還有肢體動作跟套特效音效等，使用Visual Studio 撰寫相關程式碼進行操作跟設定，最後發布APK 在AR 內呈現
+- Built the AR experience with **AR Foundation** in Unity.
+- Designed characters, animations, and action triggers within Unity.
+- Implemented gameplay logic (attack, collision damage, UI controls, game states) in **C#** using Visual Studio.
+- Exported the project as an **Android APK** for deployment.
 
 ## Results
-
 <p>
   <img src="images/result_1.png" width="48%" />
   <img src="images/result_2.png" width="48%" />
 </p>
 
-
-
-
 ## Tech Stack
-- Unity / C# / AR Foundation / Vuforia / Visual Studio
-
+- Unity
+- C#
+- AR Foundation
+- Visual Studio
+- (Optional/If used) Vuforia

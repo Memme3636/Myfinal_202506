@@ -14,9 +14,10 @@
 
 ## Results
 
-![結果圖1](螢幕擷取畫面 2025-06-20 003950.png)
+![Result 1](images/result_1.png)
 
-![結果圖2](螢幕擷取畫面 2025-06-21 013248.png)
+![Result 2](images/result_2.png)
+
 
 
 ## Tech Stack
